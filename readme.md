@@ -27,3 +27,10 @@ https://parry.rs/
 Fluids
 
 https://salva.rs/
+
+## 3D Rendering
+
+https://wgpu.rs/
+
+PS: Beavy is using it under the hood. 
+https://bevyengine.org/examples/
